@@ -9,24 +9,7 @@ function App() {
   };
   return (
     <div className="w-full h-screen bg-[#2B3560]">
-      <div className="absolute top-52 left-60">
-        <BsStars className="text-8xl text-white" />
-      </div>
-      <div className="absolute top-52 right-60">
-        <BsStars className="text-8xl text-white" />
-      </div>
-      <div className="absolute top-2/4 left-40">
-        <BsStars className="text-8xl text-white" />
-      </div>
-      <div className="absolute top-3/4 left-80">
-        <BsStars className="text-8xl text-white" />
-      </div>
-      <div className="absolute top-5/6 right-80">
-        <BsStars className="text-8xl text-white" />
-      </div>
-      <div className="absolute top-[500px] right-80">
-        <BsStars className="text-8xl text-white" />
-      </div>
+      
       <div className="m-auto py-20">
         <img
           src={falikh}
