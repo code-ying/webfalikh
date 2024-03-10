@@ -36,7 +36,7 @@ function App() {
       </div>
       <div className="m-auto">
         <div className="flex">
-          <h1 className="text-6xl font-serif m-auto text-white">
+          <h1 className="lg:text-6xl text-4xl font-serif m-auto text-white">
             To the Moon and Back
           </h1>
         </div>
